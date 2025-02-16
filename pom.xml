@@ -4,7 +4,8 @@
   <groupId>sh.xavar.security</groupId>
   <artifactId>spring-security-jwt-lib</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.3</version>  <!-- Change this to the next version -->
+
   <name>spring-security-jwt-lib</name>
   <url>http://maven.apache.org</url>
   <dependencies>
